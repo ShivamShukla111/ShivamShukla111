@@ -1,6 +1,6 @@
- **👋 Hi, I'm Shivam Shukla**
+ <h2>👋 Hi, I'm Shivam Shukla</h2>
 
-🚀 **Full-Stack Developer | MERN | Framer Motion**  
+<h1>🚀 Full-Stack Developer | MERN | Framer Motion</h1>
 
 Passionate about crafting modern, responsive, and interactive web experiences. 
 
